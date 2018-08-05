@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/skaji/Mojo-TailFile.svg?branch=master)](https://travis-ci.org/skaji/Mojo-TailFile)
+[![Build Status](https://travis-ci.com/skaji/Mojo-TailFile.svg?branch=master)](https://travis-ci.com/skaji/Mojo-TailFile)
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/github/skaji/Mojo-TailFile?branch=master&svg=true)](https://ci.appveyor.com/project/skaji/Mojo-TailFile)
 
 # NAME
